@@ -1,0 +1,5 @@
+opencv-python==4.11.0.86
+numpy==2.2.4
+retina-face==0.0.17
+deepface==0.0.93
+
